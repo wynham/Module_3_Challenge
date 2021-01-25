@@ -1,1 +1,2 @@
 # Module_3_Challenge
+In this module challenge, we worked through two datasets to determine arbitrage profits at 3 different points in time in the data. While there were profits to be made early on, in the middle and towards the end, profits off arbitrage fell to zero. I believe this is because as popularity grew, there were less discrepencies between the datasets, and therefore arbitrage opportunities completely disappeared.
